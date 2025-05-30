@@ -14,7 +14,7 @@ Hace uso de un **plan gratuito** de una API de estadísticas y apuestas de fútb
 
 ## Estado del Proyecto
 
-✅ Funcional?
-❌ Abandonado
+- ✅ Funcional?
+- ❌ Abandonado
 
 ---
