@@ -12,9 +12,9 @@ Hace uso de un **plan gratuito** de una API de estadísticas y apuestas de fútb
 - Frontend con JINJA, HTML y CSS puro.
 - Proyecto pensado para aprendizaje y optimización de recursos.
 
-## Estado del Proyecto
+## Como ejecutar
+- make setup
+- make runserver (para correrlo)
 
-- ✅ Funcional?
-- ❌ Abandonado
 
 ---
