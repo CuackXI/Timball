@@ -13,9 +13,10 @@ Hace uso de un **plan gratuito** de una API de estadísticas y apuestas de fútb
 - Proyecto pensado para aprendizaje y optimización de recursos.
 
 ## Como ejecutar
-- make setup
-- source venv/bin/activate
-- make runserver (para correrlo)
-
+```bash
+make setup
+source venv/bin/activate
+make runserver
+```
 
 ---
